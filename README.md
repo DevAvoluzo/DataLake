@@ -2,6 +2,10 @@
 
 PRIMEIRA ETAPA DO PROJETO:
 
+Criação de um DataWarehouse que reune informações, uma base de dados, que é possível realizar funções utilzando as informações
+
+
+link do google colab: https://colab.research.google.com/drive/17UzHOnkP402k4tn_3Jl3dWVn40T2khTI?usp=sharing
 
 
 
